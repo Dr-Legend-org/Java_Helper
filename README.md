@@ -3,7 +3,7 @@ Java_Helper
 <h2> Usage: 
 
 ![Screenshots:](java_helper.jpg)
- <h4>Give jdk path by default it is "c:\Programs Files\Java\Jdkx_x_x\bin"
+ <h4> For Above Window Give jdk path by default it is "c:\Programs Files\Java\Jdkx_x_x\bin"
 
 ![Screenshots:](Java_Helper_main.jpg)
 <h4>Give Folder Path Which Contains Java Programs By Clicling On Browse Button on left side of Main Window..
