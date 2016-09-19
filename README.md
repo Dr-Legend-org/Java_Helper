@@ -13,4 +13,4 @@ Java_Helper
 
 <h3>Known Bugs:
 <h4>- Force Stops when Clicking on console window.
-<h4>- Force Stops when Clicking on Run button when Application is alread busy in eexecuting java programs      
+<h4>- Force Stops when Clicking on Run button when Application is alread busy in executing java programs      
