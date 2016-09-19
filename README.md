@@ -10,3 +10,7 @@ Java_Helper
 <h4>Then Java files Will apeared on Left Side As Shown In Above Pic Then Select file to Compile and Run 
 <h4> and click on Cupcake..
 <h4>for Sending Input GIve The input in Input Box and click Send...
+
+<h3>Known Bugs:-
+*Force Stops when Clicking on console window.
+*Force Stops when Clicking on Run button when Application is alread busy in eexecuting java programs      
