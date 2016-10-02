@@ -12,6 +12,6 @@ Simple tool For java programs to run and execute.
     for Sending Input GIve The input in Input Box and click Send...</h4>
 
 <h3>Known Bugs:</h3>
-  <h4>  * No More Bugs!!</h4>
+* <h3>No More Bugs!!</h3>
 * ~~-Force Stops when Clicking on console window.~~ 
 * ~~Force Stops when Clicking on Run button when Application is alread busy in executing java programs.~~ 
